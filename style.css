@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+}
+.heading{
+    padding: 60px;
+    font-size: 70px;
+    width: 100%;
+    height: 100px;
+    color:rgb(240, 230, 34);
+    align-items: left;
+    background-color: transparent;
+    font-family:" oswald";
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 50px; 
+    width: 100%;
+    color: white;
+}
+
+.image{
+    width: 29%;
+    align-items: center;
+    float:left;
+    object-fit: scale-down;
+}
+.images{
+    width: 11%;
+    float:right;
+}
+.imagez{
+    width: 19%;
+    float:right;
+}
+
+.content{
+   
+    font-size: larger;
+    width: 50%;
+    align-items: center;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    color:rgb(240, 230, 34);
+}
